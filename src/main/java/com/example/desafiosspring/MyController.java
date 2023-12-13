@@ -13,3 +13,5 @@ public class MyController {
         return "index";
     }
 }
+
+//test aplication html / spring
